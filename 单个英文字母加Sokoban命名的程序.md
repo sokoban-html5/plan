@@ -95,8 +95,8 @@
     http://www.cs.cornell.edu/andru/xsokoban.html  (by Andrew Myers)
   </td></tr>
   <tr><td>YSokoban</td><td>
-    http://ygp.orgfree.com/
-    <br>http://ygp.orgfree.com/sokoban.html   (by George Petrov)
+    [http://ygp.orgfree.com/](http://ygp.orgfree.com/)
+    <br><a href="http://ygp.orgfree.com/sokoban.html">http://ygp.orgfree.com/sokoban.html</a>   (by George Petrov)
   </td></tr>
   <tr><td>ZSokoban</td><td>
     https://gekihen.customprotocol.com/en/project/Zsokoban   (by gdljjrod)
